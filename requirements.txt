@@ -1,0 +1,4 @@
+fastmcp
+requests
+httpx
+typing

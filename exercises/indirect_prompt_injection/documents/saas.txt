@@ -1,0 +1,41 @@
+SaaS Products – Summary
+
+Software as a Service (SaaS) is a software delivery model where applications are hosted in the cloud and accessed over the internet — typically through a web browser — rather than being installed on local devices. Users subscribe to the service, paying monthly or annually, instead of buying perpetual licenses.
+
+SaaS providers manage infrastructure, maintenance, security, and updates, allowing customers to focus on using the software without handling backend operations. This model is highly scalable, cost-effective, and accessible from anywhere.
+
+Common examples include Google Workspace, Microsoft 365, Salesforce, Slack, and Zoom.
+
+Key Characteristics
+
+Cloud-based: Hosted on remote servers, accessed via the internet.
+
+Subscription model: Pay-as-you-go or tiered pricing.
+
+Multi-tenancy: One platform serves many users securely.
+
+Automatic updates: The vendor handles all upgrades and patches.
+
+Accessibility: Works across devices and operating systems.
+
+Benefits
+
+Lower upfront costs
+
+Rapid deployment
+
+Easy scalability
+
+Continuous feature updates
+
+Accessibility and collaboration from anywhere
+
+Challenges
+
+Data security and compliance
+
+Limited customization
+
+Dependency on vendor uptime
+
+Internet connectivity required

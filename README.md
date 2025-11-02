@@ -1,5 +1,5 @@
 # DigitalWhisper - MCP Security Workshop
-This repository contains a vulnerable MCP server implementation designed for educational and research purposes. It demonstrates common security pitfalls and real-world exploitation scenarios targeting MCP (Model Context Protocol) systems — along with practical techniques to detect, defend, and harden your own MCP-based applications.
+This repository contains a vulnerable MCP server implementation designed for educational and research purposes. It demonstrates common security pitfalls and real-world exploitation scenarios targeting MCP (Model Context Protocol) systems along with practical techniques to detect, defend, and harden your own MCP-based applications.
 This project complements my article published in DigitalWhisper magazine, where I explore the offensive and defensive aspects of:
 - AI agent orchestration
 - Prompt injection

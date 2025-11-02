@@ -24,7 +24,5 @@ An intentionally vulnerable MCP server covering the following topics:
 
 ## 📝 License
 
-This project is licensed under an **Educational Use License**.  
-It may be used for personal, research, and educational purposes **only**.  
-**Commercial use is prohibited** without prior written permission.  
-See the [LICENSE](./LICENSE) file for details.
+Copyright (c) 2025 Maor Tal.
+This project is licensed under the [MIT License](./LICENSE).

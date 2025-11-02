@@ -21,3 +21,10 @@ An intentionally vulnerable MCP server covering the following topics:
 - 👨‍💻 Developers – Building safer, more robust MCP / Agent frameworks
 - 🎓 Educators & Trainers – Teaching offensive AI/LLM behavior in workshops and labs
 - 🔴 Red Teamers – Simulating prompt injection and RAG abuse in controlled environments
+
+## 📝 License
+
+This project is licensed under an **Educational Use License**.  
+It may be used for personal, research, and educational purposes **only**.  
+**Commercial use is prohibited** without prior written permission.  
+See the [LICENSE](./LICENSE) file for details.

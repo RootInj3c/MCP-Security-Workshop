@@ -8,7 +8,7 @@ This project complements my article published in DigitalWhisper magazine, where 
 📰 Read the article (Hebrew only):
 https://www.digitalwhisper.co.il/
 
-📌 What's Inside
+## What's Inside
 
 An intentionally vulnerable MCP server covering the following topics:
 - ⚙️ Intro to MCP – Working and debugging with a simple MCP server
@@ -16,7 +16,7 @@ An intentionally vulnerable MCP server covering the following topics:
 - 🧪 Tool Poisoning – Two real-world use cases used by AI attackers
 - 🧠 Indirect Prompt Injection – RAG-based simulation to explore context abuse and multi-hop attacks
 
-🎯 Who This Is For
+## Who This Is For
 - 🛡️ Security Researchers – Exploring LLM/MCP threat models and vulnerabilities
 - 👨‍💻 Developers – Building safer, more robust MCP / Agent frameworks
 - 🎓 Educators & Trainers – Teaching offensive AI/LLM behavior in workshops and labs
